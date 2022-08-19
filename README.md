@@ -242,7 +242,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 
 <span id="q1"></span>
 ## 算力呈现波浪状
-<img src="./image/t10.png" alt="Logo"><br>
+<img src="./image/t10.jpg" alt="Logo"><br>
 <p>如果出现上图中的情况, 说明您开启了多个相同端口的KTMinerproxy, 关闭多余的进程即可。</p>
 <p>如果您进行了镜像拷贝，也会出现以上问题，先执行脚本停止程序的运行，然后删除掉/root/ktmproxy/license文件, 再执行启动即可</p>
 
