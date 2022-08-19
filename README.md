@@ -271,7 +271,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 
 <span id="q7"></span>
 ## 关闭/删除端口
-<img src="./image/t11.png" alt="Logo">
+<img src="./image/t11.jpg" alt="Logo">
 <p>点击图中指定位置即可删除/关闭端口</p>
 
 <span id="q8"></span>
