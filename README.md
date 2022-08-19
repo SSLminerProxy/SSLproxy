@@ -8,7 +8,9 @@
 <br>
 
 <h3>
-    Telegram：<a href="https://t.me/+SSLminerProxy">https://t.me/+SSLminerProxy</a>
+    Telegram：<a href="https://t.me/SSLminerProxy">https://t.me/SSLminerProxy</a>
+    # QQ群：923469225
+
 </h3>
 
 </div>
