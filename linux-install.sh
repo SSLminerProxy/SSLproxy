@@ -1,36 +1,23 @@
 #!/bin/bash
 # Author: SSLminerProxy
 # github: https://github.com/SSLminerProxy/SSLproxy
-
 VERSION="2.8.0"
-
 DOWNLOAD_HOST="https://github.com/SSLminerProxy/SSLproxy/main/Linux-64"
-
 DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/SSLminerProxy/SSLproxy@main/Linux-64"
-
 PATH_SSL="/root/SSLproxy"
-
 PATH_EXEC="SSLproxy"
-
 PATH_CACHE="/root/SSLproxy/.cache"
-
 PATH_LICENSE="/root/SSLproxy/license"
-
 PATH_CONFIG="/root/SSLproxy/.env"
-
 PATH_NOHUP="/root/SSLproxy/nohup.out"
 PATH_ERR="/root/SSLproxy/err.log"
-
-
 PATH_TURN_ON="/etc/profile.d"
 PATH_TURN_ON_SH="/etc/profile.d/SSLm.sh"
-
 ISSUE() {
     echo "2.7.1"
     echo "2.7.5"
     echo "2.7.9"
 }
-
 colorEcho(){
     COLOR=$1
     echo -e "\033[${COLOR}${@:2}\033[0m"
