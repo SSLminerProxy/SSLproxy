@@ -7,11 +7,6 @@
 
 <br>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <h3>
     Telegram：<a href="https://t.me/+SSLminerProxy">https://t.me/+SSLminerProxy</a>
 </h3>
