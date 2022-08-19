@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/image/logo.jpg" alt="Logo">
+<img src="https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/image/logo.jpeg" alt="Logo">
 
 <br>
 
