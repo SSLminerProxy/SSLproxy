@@ -193,6 +193,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 - BEAM
 - ALPH
 - KASPA
+- flux
+- HNS
+- LBC
+- NEOX
 - ...
 
 
