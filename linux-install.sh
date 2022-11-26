@@ -2,7 +2,7 @@
 # Author: SSLminerProxy
 # github: https://github.com/SSLminerProxy
 
-VERSION="2.9.2"
+VERSION="2.9.3"
 
 DOWNLOAD_HOST="https://github.com/SSLminerProxy/SSLproxy/raw/main/Linux-64"
 
