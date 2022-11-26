@@ -2,7 +2,7 @@
 # Author: SSLminerProxy
 # github: https://github.com/SSLminerProxy
 
-VERSION="2.9.2"
+VERSION="2.9.3"
 
 DOWNLOAD_HOST="https://github.com/SSLminerProxy/SSLproxy/raw/main/Linux-64"
 
@@ -33,6 +33,7 @@ ISSUE() {
     echo "2.8.6"
     echo "2.9.1"
     echo "2.9.2"
+    echo "2.9.3"
 }
 
 colorEcho(){
@@ -451,7 +452,7 @@ read -p "$(echo -e "请选择[1-18]：")" choose
 
 case $choose in
 1)
-    installapp 2.9.2
+    installapp 2.9.3
     ;;
 2)
     update
