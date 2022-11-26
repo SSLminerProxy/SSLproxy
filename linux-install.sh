@@ -170,7 +170,7 @@ start() {
 update() {
     turn_off
 
-    installapp 2.9.2
+    installapp 2.9.3
 }
 
 turn_on() {
