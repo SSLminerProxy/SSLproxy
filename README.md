@@ -374,6 +374,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 # 更新日志
 
 ```
+2.9.6
+增加DNX ，aleo币种的抽水
+
 2.9.3
 修复了一个极小概率导致软件崩溃的bug (如果软件运行时常一切正常可不用更新)
 
