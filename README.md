@@ -17,7 +17,11 @@
 <!-- <h1></h1> -->
 <!-- <h2>简介</h2> -->
                                                                         <h1>SSLProxy</h1>
-<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
+                                                                        Professional mine operation and maintenance tools, improve mine profits, detect abnormalities in mines and nodes, and become the best assistant of mines. (this software is only for use in legally licensed areas. If you use this software, it means that you accept this license by default. If you use it in a restricted area, you should bear the legal problems caused by it.
+                                                                        
+<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...
+⚡ Original and genuine, powerful and powerful. Support lossless BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA DCR FLUX NEOX and other currency pumping, no memory burst, experience full, 9000 units without pressure and no collapse, accurate to 24-hour data statistics of a single device , custom tunnel push tool and other powerful functions...
+</p>
 
 <p align="center">
     <img src="./image/tiny.png" alt="Logo">
