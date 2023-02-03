@@ -31,8 +31,9 @@ Professional mine operation and maintenance tools, improve mine profits, detect 
     <img src="./image/tiny.png" alt="Logo">
   </p>
 
-<h2>Linux一键安装管理命令One-click toolbox for Linux</h2>
-<p>root用户直接执行以下命令, 根据提示选择对应功能即可。The root user directly executes the following commands, and selects the corresponding function according to the prompts</p>
+<h2>Linux一键安装管理命令  One-click toolbox for Linux</h2>
+<p>root用户直接执行以下命令, 根据提示选择对应功能即可。
+  The root user directly executes the following commands, and selects the corresponding function according to the prompts.</p>
 
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/linux-install.sh)
