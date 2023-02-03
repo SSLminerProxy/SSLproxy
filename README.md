@@ -39,8 +39,9 @@ Professional mine operation and maintenance tools, improve mine profits, detect 
 bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/linux-install.sh)
 ```
 
-<h2>免责声明</h2>
+<h2>免责声明Disclaimer</h2>
 <p>法律不支持的地区此程序无法使用，请自觉遵守当地相关政策，使用此软件造成的法律问题，一概与软件作者无关。</p>
+<p>This software is only for use in areas permitted by law. If you use this software, it means that you accept this license by default. If you use it in restricted areas, you will be responsible for legal problems.</p>
 
 # 导航
 
