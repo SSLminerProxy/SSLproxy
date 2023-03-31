@@ -13,9 +13,6 @@
 
 </h3>
 
-<h3>
-# 抽BTC请选择此版本https://github.com/SSLminerProxy/SSLminer
-</h3>
 
 </div>
 <!-- <h1></h1> -->
